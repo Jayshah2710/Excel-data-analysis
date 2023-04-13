@@ -14,6 +14,11 @@ Objectives :
 
 6.Relation between age and gender based on number
 
+# Key-insights 
+
+First, I had to perform thorough data cleaning to ensure accuracy and reliability. Then, I moved on to data processing to extract key insights and trends. Finally, I used advanced data analysis techniques to visualize the data and create a user-friendly dashboard that provides valuable insights into Tejas Store's sales and customer behavior.
+Through this project, I gained valuable experience in data cleaning, data processing, and data analysis techniques, as well as a deeper understanding of Tejas Store's business operations. I'm proud to have created a tool that will help Vrinda Store make informed decisions based on the data presented
+
 # Outcomes :
 
 Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra
